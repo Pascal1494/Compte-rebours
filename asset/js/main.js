@@ -1,5 +1,5 @@
 jQuery(function ($) {
-  let launch = new Date(2022, 9, 30, 18, 0, 0);
+  let launch = new Date(2022, 9, 28, 16, 0, 0);
 
   /** Compte a rebours */
 
